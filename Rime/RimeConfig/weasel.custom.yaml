@@ -1,0 +1,10 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sat Dec 28 21:58:37 2019"
+  rime_version: 1.5.3
+patch:
+  "menu/page_size": 9
+  "style/color_scheme": android
+  "style/horizontal": true
