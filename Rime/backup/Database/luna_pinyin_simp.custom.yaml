@@ -1,0 +1,5 @@
+patch:
+  "punctuator/import_preset": symbols
+  "recognizer/patterns/punct": "^/([A-Z|a-z]*|[0-9]|10)$"
+  "translator/dictionary": luna_pinyin.extended
+	

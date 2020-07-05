@@ -1,0 +1,36 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Tue Jan 28 21:59:32 2020"
+  rime_version: 1.5.3
+patch:
+  "menu/page_size": 9
+  "style/color_scheme": TNT
+  "style/font_face": "微软雅黑"
+  "preset_color_schemes/TNT":
+    text_color: 0x444444
+    back_color: 0x444444
+    candidate_text_color: 0xeeeeee
+    comment_text_color: 0x808080
+    hilited_text_color: 0xeeeeee
+    hilited_back_color: 0x444444
+    hilited_candidate_label_color: 0xfafafa
+    hilited_candidate_text_color: 0xfafafa
+    # hilited_candidate_back_color: 0x9c9d32
+    hilited_candidate_back_color: 0xb6b900
+    # 黑绿风
+    # hilited_candidate_text_color: 0x000000
+    # hilited_candidate_back_color: 0x77ddbb
+    hilited_comment_text_color: 0x444444
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/layout/border": 0
+  "style/layout/border_width": 0
+  "style/layout/candidate_spacing": 12
+  "style/layout/hilite_padding": 8
+  "style/layout/hilite_spacing": 3
+  "style/layout/margin_x": 8
+  "style/layout/margin_y": 8
+  "style/layout/round_corner": 0
+  "style/layout/spacing": 10

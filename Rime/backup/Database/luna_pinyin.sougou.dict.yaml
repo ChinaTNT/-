@@ -1,0 +1,65 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: luna_pinyin.sogou
+version: "2020.07.05"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+安全标识符	an quan biao zhi fu	1
+安全说明符	an quan shuo ming fu	1
+版本策略	ban ben ce lue	1
+本机代码	ben ji dai ma	1
+边界	bian jie	1
+表布局	biao bu ju	1
+标志符号	biao zhi fu hao	1
+并行执行	bing xing zhi xing	1
+部件控件	bu jian kong jian	1
+部署清单	bu shu qing dan	1
+参数化类型	can shu hua lei xing	1
+参数约束	can shu yue shu	1
+程序集	cheng xu ji	1
+程序集缓存	cheng xu ji huan cun	1
+程序集清单	cheng xu ji qing dan	1
+程序集元数据	cheng xu ji yuan shu ju	1
+成员资格	cheng yuan zi ge	1
+处理程序	chu li cheng xu	1
+代码访问安全性	dai ma fang wen an quan xing	1
+代码隐藏类	dai ma yin cang lei	1
+代码隐藏文件	dai ma yin cang wen jian	1
+代码隐藏页	dai ma yin cang ye	1
+动态控件	dong tai kong jian	1
+断言	duan yan	1
+对齐线	dui qi xian	1
+对象管理器	dui xiang guan li qi	1
+堆栈布局	dui zhan bu ju	1
+泛型	fan xing	1
+泛型方法	fan xing fang fa	1
+泛型接口	fan xing jie kou	1
+泛型类	fan xing lei	1
+泛型类型	fan xing lei xing	1
+泛型类型变量	fan xing lei xing bian liang	1
+泛型类型参数	fan xing lei xing can shu	1
+泛型类型参数列表	fan xing lei xing can shu lie biao	1
+泛型类型参数约束	fan xing lei xing can shu yue shu	1
+泛型类型定义	fan xing lei xing ding yi	1
+访问控制列表	fang wen kong zhi lie biao	1
+非托管代码	fei tuo guan dai ma	1
+分离的提供程序	fen li de ti gong cheng xu	1
+分离式堆栈布局	fen li shi dui zhan bu ju	1
+分页	fen ye	1
+封闭式泛型类型	feng bi shi fan xing lei xing	1
+封装	feng zhuang	1
+复合控件	fu he kong jian	1
+附属程序集	fu shu cheng xu ji	1
+服务器控件	fu wu qi kong jian	1
+个性化设置	ge xing hua she zhi	1
+公共信息模型	gong gong xin xi mo xing	1
+公共语言规范	gong gong yu yan gui fan	1
+公共语言运行库	gong gong yu yan yun xing ku	1
+公共语言运行库宿主	gong gong yu yan yun xing ku su zhu	1
+共享程序集	gong xiang cheng xu ji	1
+共享控件	gong xiang kong jian	1
+工作区	gong zuo qu	1
