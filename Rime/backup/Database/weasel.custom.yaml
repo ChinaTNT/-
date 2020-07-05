@@ -1,9 +1,10 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.14.3
+  distribution_version: 0.9.29.1
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Tue Jan 28 21:59:32 2020"
-  rime_version: 1.5.3
+  modified_time: "Wed Feb 12 09:16:25 2014"
+  rime_version: 1.1
+
 patch:
   "menu/page_size": 9
   "style/color_scheme": TNT
