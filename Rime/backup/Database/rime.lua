@@ -309,6 +309,12 @@ yield(Candidate("week", seg.start, seg._end, os.date("星期")..weekstr,""))
 end
 end
 
+function email_translator(input, seg)
+if (input == "yx" or input == "youxiang") then
+emailstr = "q_tnt@qq.com"
+yield(Candidate("yx", seg.start, seg._end, emailstr,""))
+end	
+end	
 --- charset filter
 charset = {
 ["CJK"] = { first = 0x4e00, last = 0x9fff },

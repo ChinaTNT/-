@@ -39,8 +39,6 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
-    - lua_translator@date_translator
-    - lua_translator@week_translator
     - punct_translator
     - table_translator@custom_phrase
     - script_translator

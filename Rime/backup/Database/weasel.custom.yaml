@@ -1,12 +1,11 @@
 customization:
   distribution_code_name: Weasel
-  distribution_version: 0.9.29.1
+  distribution_version: 0.14.3
   generator: "Weasel::UIStyleSettings"
-  modified_time: "Wed Feb 12 09:16:25 2014"
-  rime_version: 1.1
-
+  modified_time: "Sun Aug 23 16:35:14 2020"
+  rime_version: 1.5.3
+  
 patch:
-  "menu/page_size": 9
   "style/color_scheme": TNT
   "style/font_face": "微软雅黑"
   "preset_color_schemes/TNT":
