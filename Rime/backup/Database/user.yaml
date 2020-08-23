@@ -1,8 +1,9 @@
 var:
-  last_build_time: 1594813514
-  previously_selected_schema: luna_pinyin
+  last_build_time: 1598160596
+  previously_selected_schema: luna_pinyin_simp
   schema_access_time:
     Sougou: 1593974605
+    easy_en: 1598158521
     luna_pinyin: 1593976879
-    luna_pinyin_simp: 1593975496
+    luna_pinyin_simp: 1598158723
     symbols: 1593976859
