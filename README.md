@@ -1,5 +1,6 @@
 # Tools
 
-> Rime
-
-> Something for use
+- Chrome
+- Rime
+- Edit
+- Something for use
